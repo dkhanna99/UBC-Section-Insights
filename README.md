@@ -2,7 +2,7 @@
 This Sections Insight project is an application that seeks to provide insights into datasets regarding UBC sections.
 
 ## Video Link
-<!-- TODO -->
+https://youtu.be/0Zg-LBAzfS8
 
 ## Installation and Setup
 
